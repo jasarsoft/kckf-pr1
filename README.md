@@ -1,4 +1,4 @@
-### Kultirni Centar "Kralj Fahd" Mostar <br> Programiranje 1 (C++)
+### Kultirni Centar "Kralj Fahd" Mostar <br> [Programiranje 1 (C++)](http://www.kckfmostar.com/kursevi/programiranje-1/25)
 #### **O KURSU**<br>
 Upoznavanje sa osnovnim pojmovima programiranja i razvoj prvih vlastitih programa.
 
