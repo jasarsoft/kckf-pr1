@@ -13,7 +13,7 @@ int main(void)
 	for (int i = min; i <= max; i++)
 	{
 		//moze i da se ispisuje suma u poruci
-		//int s = Suma(i); //zog optimizacije
+		//int s = Suma(i); //zbog optimizacije
 		//if (i % s == 0){ cout << "... << s << ; u++;}
 		if (i % Suma(i) == 0)
 		{
